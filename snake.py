@@ -15,9 +15,9 @@ import random
 # -------------------------------
 # Window Settings
 # -------------------------------
-WIDTH = 600
-HEIGHT = 400
-SIZE = 20
+WIDTH = 1000
+HEIGHT = 700
+SIZE = 40
 
 root = tk.Tk()
 root.title("Snake Game")
